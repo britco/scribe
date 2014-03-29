@@ -1,5 +1,5 @@
 {
   "name": "scribe",
   "version": "0.1.4",
-  "main": "index.js"
+  "main": "scribe.umd.js"
 }
